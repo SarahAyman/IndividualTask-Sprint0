@@ -2,12 +2,13 @@
 
 * * *
 
-**Getting Started**
-This repo contains some extracts from the "Pro Git" book, written by Scott Chacon and Ben Straub.
+**Getting Started** <br />
+This repo contains 3 files some extracts from the "Pro Git" book, written by Scott Chacon and Ben Straub.
+It also contains a file (AllMyCommands.txt) that includes all the commands I used.
 
-**Author**
+**Author** <br />
 Sarah Ayman, 37-3459
 
-**Acknowledgements**
+**Acknowledgements** <br />
 book Chacon, Scott, and Ben Straub. Pro Git. Apress, 2014
 
